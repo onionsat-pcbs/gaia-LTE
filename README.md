@@ -1,2 +1,2 @@
-# gaia-LTE
+# Gaia LTE
 LTE PBC for OnionSAT Gaia satellite.
