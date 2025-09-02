@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.6,
-          "width": 1.8
+          "height": 1.8,
+          "width": 0.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -188,8 +188,8 @@
       ],
       "track_widths": [
         0.0,
-        0.1565,
         0.3,
+        0.3493,
         0.35,
         0.4,
         0.5,
@@ -198,9 +198,11 @@
         0.8,
         0.9,
         1.0,
+        1.1,
         1.2,
         1.3,
         1.4,
+        1.5,
         1.6,
         1.7,
         1.8,
@@ -239,8 +241,16 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.5,
+          "drill": 0.3
+        },
+        {
           "diameter": 0.6,
           "drill": 0.3
+        },
+        {
+          "diameter": 0.7,
+          "drill": 0.35
         },
         {
           "diameter": 0.8,
@@ -523,6 +533,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -555,6 +566,21 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "name": "SD",
+        "pcb_color": "rgb(255, 195, 88)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3493
+      },
+      {
+        "diff_pair_gap": 0.2032,
+        "name": "USB_90R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.286
       }
     ],
     "meta": {
@@ -562,7 +588,32 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "SD",
+        "pattern": "/SD_CLK"
+      },
+      {
+        "netclass": "SD",
+        "pattern": "/SD_DAT3"
+      },
+      {
+        "netclass": "SD",
+        "pattern": "/SD_DAT2"
+      },
+      {
+        "netclass": "SD",
+        "pattern": "/SD_DAT1"
+      },
+      {
+        "netclass": "SD",
+        "pattern": "/SD_DAT0"
+      },
+      {
+        "netclass": "SD",
+        "pattern": "/SD_CMD"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -695,6 +746,18 @@
     [
       "7b77d13a-9a8b-42d2-a530-7929f32d7253",
       "Root"
+    ],
+    [
+      "64903bdd-d8d7-4cff-b9d5-1cc2a088787b",
+      "simCard"
+    ],
+    [
+      "a03e4bfc-60e8-4db0-9e70-bf306df5cac1",
+      "sdCard"
+    ],
+    [
+      "64e86d72-ba40-4c72-8af6-e159e57c58fe",
+      "SDcardPSU"
     ]
   ],
   "text_variables": {}

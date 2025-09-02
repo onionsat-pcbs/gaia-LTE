@@ -1,4 +1,4 @@
-(footprint "Gaia_connector_4_6layer"
+(footprint "Gaia_connector_2_4layer"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -1000,7 +1000,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "2e6d8048-1400-44b3-92eb-9e007057b85d")
 	)
 	(pad "2" thru_hole rect
@@ -1008,7 +1009,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "69145640-b49f-49a7-9059-2f61c2b1c834")
 	)
 	(pad "3" thru_hole rect
@@ -1016,7 +1018,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "9cf228e0-7b52-42d6-8037-9df52633ffa5")
 	)
 	(pad "4" thru_hole rect
@@ -1024,7 +1027,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "5f4a7346-ef98-40fc-bc86-53999e3efb7d")
 	)
 	(pad "5" thru_hole rect
@@ -1032,7 +1036,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "be1b52a4-9c0f-4bb7-9f9b-916f07c7a137")
 	)
 	(pad "6" thru_hole rect
@@ -1040,7 +1045,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "f2c4ed5e-f5ca-4adb-ad84-5ff0cd9c9fd2")
 	)
 	(pad "7" thru_hole rect
@@ -1048,7 +1054,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "c4ece913-a0db-4d5e-bbb0-2a6cf1d88b39")
 	)
 	(pad "8" thru_hole rect
@@ -1056,7 +1063,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "bed7d6bf-a91d-45be-95d4-171a0d8d264a")
 	)
 	(pad "9" thru_hole rect
@@ -1064,7 +1072,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "8a82d9f6-a58e-4781-8e21-e2c2cbd589ab")
 	)
 	(pad "10" thru_hole rect
@@ -1072,7 +1081,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "cbc0d3ec-1087-4bb4-88fc-d320db4885a2")
 	)
 	(pad "11" thru_hole rect
@@ -1080,7 +1090,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "267abdba-12a8-4813-9e48-686d372c4489")
 	)
 	(pad "12" thru_hole rect
@@ -1088,7 +1099,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "54d01b47-85f3-4fb0-b86b-31797d1b3c43")
 	)
 	(pad "13" thru_hole rect
@@ -1096,7 +1108,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "1b3347f8-4d64-46e5-bf0a-28235de91c60")
 	)
 	(pad "14" thru_hole rect
@@ -1104,7 +1117,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "de5b48aa-6966-417b-b3c5-7c1cc6ce86cd")
 	)
 	(pad "15" thru_hole rect
@@ -1112,7 +1126,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "cd0a32ca-5f0e-4d02-9bc2-6b98b5563de2")
 	)
 	(pad "16" thru_hole rect
@@ -1120,7 +1135,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "be9dc487-0ede-41b6-bc23-e9c856de6107")
 	)
 	(pad "17" thru_hole rect
@@ -1128,7 +1144,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "498fcbd8-0666-4a45-8615-92a1e13ac99b")
 	)
 	(pad "18" thru_hole rect
@@ -1136,7 +1153,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "62608593-194b-4050-a23c-ac7d46c2490e")
 	)
 	(pad "19" thru_hole rect
@@ -1144,7 +1162,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "7be5753f-c4f4-4e69-b962-f39b76dbb1a3")
 	)
 	(pad "20" thru_hole rect
@@ -1152,7 +1171,8 @@
 		(size 2.58 1)
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
 		(uuid "2a5c48fa-f909-44ec-bb9f-192e7c52c94d")
 	)
 	(embedded_fonts no)

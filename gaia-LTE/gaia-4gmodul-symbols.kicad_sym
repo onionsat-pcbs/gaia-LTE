@@ -2,6 +2,140 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
+	(symbol "ADP3338AKCZ-2.85R7"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "ADP3338AKCZ-2.85R7_1_1"
+			(rectangle
+				(start 0 0)
+				(end 10.16 -7.62)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_out line
+				(at -2.54 -3.81 0)
+				(length 2.54)
+				(name "Vout"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 -1.27 180)
+				(length 2.54)
+				(name "Vin"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 12.7 -3.81 180)
+				(length 2.54)
+				(name "Vout"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 -6.35 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "DTC143ZEBTL"
 		(pin_names
 			(offset 1.016)
@@ -638,32 +772,38 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "SIM8061-6-1-14-00-A"
+	(symbol "SIM8051-6-0-14-00-A_REVD6"
+		(pin_names
+			(offset 1.016)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U"
-			(at 0 1.524 0)
+		(property "Reference" "J"
+			(at -5.08 10.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "SIM8051-6-0-14-00-A_REVD6"
+			(at -5.08 -16.764 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "SIM8051-6-0-14-00-A_REVD6:GCT_SIM8051-6-0-14-00-A_REVD6"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -685,166 +825,290 @@
 				(hide yes)
 			)
 		)
-		(symbol "SIM8061-6-1-14-00-A_1_1"
+		(property "MF" "Global Connector Technology"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.35 mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SIM8051-6-0-14-00-A/Global+Connector+Technology/view-part/?ref=eda"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "D6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SIM8051-6-0-14-00-A/Global+Connector+Technology/view-part/?ref=snap"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SIM8051-6-0-14-00-A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "6 Position Card Connector NANO SIM Surface Mount, Right Angle Gold"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "GCT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" "SIM8051-6-0-14-00-A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(symbol "SIM8051-6-0-14-00-A_REVD6_0_0"
 			(rectangle
-				(start 0 0)
-				(end 7.62 -20.32)
+				(start -5.08 10.16)
+				(end 5.08 -12.7)
 				(stroke
-					(width 0)
-					(type solid)
+					(width 0.254)
+					(type default)
 				)
 				(fill
 					(type background)
 				)
 			)
-			(text "NANOSim holder"
-				(at 5.588 -9.906 900)
-				(effects
-					(font
-						(size 1.016 1.016)
-					)
-				)
-			)
+		)
+		(symbol "SIM8051-6-0-14-00-A_REVD6_1_0"
 			(pin power_in line
-				(at -2.54 -1.27 0)
-				(length 2.54)
+				(at -10.16 7.62 0)
+				(length 5.08)
 				(name "VCC"
 					(effects
 						(font
-							(size 0.635 0.635)
+							(size 1.016 1.016)
 						)
 					)
 				)
 				(number "1"
 					(effects
 						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -2.54 -3.81 0)
-				(length 2.54)
-				(name "RST"
-					(effects
-						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -2.54 -6.35 0)
-				(length 2.54)
-				(name "CLK"
-					(effects
-						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 0.635 0.635)
+							(size 1.016 1.016)
 						)
 					)
 				)
 			)
 			(pin power_in line
-				(at -2.54 -8.89 0)
-				(length 2.54)
-				(name "GND"
+				(at -10.16 5.08 0)
+				(length 5.08)
+				(name "VPP"
 					(effects
 						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -2.54 -11.43 0)
-				(length 2.54)
-				(name "Vpp"
-					(effects
-						(font
-							(size 0.635 0.635)
+							(size 1.016 1.016)
 						)
 					)
 				)
 				(number "6"
 					(effects
 						(font
-							(size 0.635 0.635)
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 2.54 0)
+				(length 5.08)
+				(name "RST"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input clock
+				(at -10.16 0 0)
+				(length 5.08)
+				(name "CLK"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
 						)
 					)
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -13.97 0)
-				(length 2.54)
+				(at -10.16 -2.54 0)
+				(length 5.08)
 				(name "I/O"
 					(effects
 						(font
-							(size 0.635 0.635)
+							(size 1.016 1.016)
 						)
 					)
 				)
 				(number "7"
 					(effects
 						(font
-							(size 0.635 0.635)
+							(size 1.016 1.016)
 						)
 					)
 				)
 			)
-			(pin unspecified line
-				(at -2.54 -16.51 0)
-				(length 2.54)
-				(name "Shield"
+			(pin power_in line
+				(at -10.16 -5.08 0)
+				(length 5.08)
+				(name "GND"
 					(effects
 						(font
-							(size 0.635 0.635)
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -10.16 -7.62 0)
+				(length 5.08)
+				(name "SHIELD"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -10.16 -10.16 0)
+				(length 5.08)
+				(name "SHIELD"
+					(effects
+						(font
+							(size 1.016 1.016)
 						)
 					)
 				)
 				(number "8"
 					(effects
 						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -2.54 -19.05 0)
-				(length 2.54)
-				(name "SW"
-					(effects
-						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 0.635 0.635)
+							(size 1.016 1.016)
 						)
 					)
 				)
@@ -1385,10 +1649,10 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 -7.62 0)
 				(length 2.54)
-				(name "NC"
+				(name "4G_USB_DP"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -1565,10 +1829,10 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -7.62 180)
 				(length 2.54)
-				(name "NC"
+				(name "4G_USB_DN"
 					(effects
 						(font
 							(size 0.635 0.635)
