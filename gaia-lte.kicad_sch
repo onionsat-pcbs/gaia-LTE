@@ -6426,8 +6426,20 @@
 		(uuid "1552810c-fce1-4c78-a2a8-79ad6c5dc711")
 	)
 	(no_connect
+		(at 39.37 31.75)
+		(uuid "1f2609fb-065c-487d-8b8d-8fec4bd637b6")
+	)
+	(no_connect
+		(at 26.67 39.37)
+		(uuid "25bbd3ea-110d-4d14-8fad-9a0df6f7690d")
+	)
+	(no_connect
 		(at 201.93 95.25)
 		(uuid "2c0ab7d7-36b9-4c24-b7f6-2d3c090b7848")
+	)
+	(no_connect
+		(at 73.66 36.83)
+		(uuid "2ede7548-e625-4835-9330-964b1d89429c")
 	)
 	(no_connect
 		(at 222.25 74.93)
@@ -6444,6 +6456,10 @@
 	(no_connect
 		(at 222.25 77.47)
 		(uuid "3c2c836a-26d7-4b78-80f1-eda373b289ba")
+	)
+	(no_connect
+		(at 60.96 26.67)
+		(uuid "3f347191-b6f0-4d30-a1de-ac9a9b5e29a1")
 	)
 	(no_connect
 		(at 184.15 26.67)
@@ -6470,6 +6486,10 @@
 		(uuid "5083e6e1-65a6-4572-8a5b-ab1762a37c7c")
 	)
 	(no_connect
+		(at 73.66 46.99)
+		(uuid "55833500-2116-42d9-ae4f-8689d882a7d8")
+	)
+	(no_connect
 		(at 222.25 62.23)
 		(uuid "60dce330-0bd9-4af1-9c9f-fad33e5647b8")
 	)
@@ -6478,8 +6498,20 @@
 		(uuid "61f98a90-f468-40f1-8695-ebcddfaf273d")
 	)
 	(no_connect
+		(at 26.67 41.91)
+		(uuid "62c187f9-61ef-4bf7-ad0d-45031888a9e4")
+	)
+	(no_connect
+		(at 60.96 36.83)
+		(uuid "6446111e-4958-404d-b3fb-87257de05d4d")
+	)
+	(no_connect
 		(at 222.25 72.39)
 		(uuid "6dc5341f-4bc8-4f48-9680-eae789df9ce4")
+	)
+	(no_connect
+		(at 73.66 49.53)
+		(uuid "701bad42-35dd-4dff-820e-0a95ce748ce4")
 	)
 	(no_connect
 		(at 214.63 95.25)
@@ -6506,6 +6538,26 @@
 		(uuid "7b3f7432-d558-46f2-bc14-41e47c4453a5")
 	)
 	(no_connect
+		(at 60.96 34.29)
+		(uuid "7f0e1352-85c1-4a38-b41e-2dde9d0a4d01")
+	)
+	(no_connect
+		(at 39.37 26.67)
+		(uuid "817456ad-2040-4379-b2df-68d2f6c1d06c")
+	)
+	(no_connect
+		(at 26.67 34.29)
+		(uuid "823b8539-2e85-46ce-bfcd-c6b753e1c8cd")
+	)
+	(no_connect
+		(at 60.96 49.53)
+		(uuid "852b570d-5fef-40cd-9920-71325dc249eb")
+	)
+	(no_connect
+		(at 26.67 36.83)
+		(uuid "981af400-4f57-4a05-b149-adbff3ac7926")
+	)
+	(no_connect
 		(at 153.67 74.93)
 		(uuid "9890aa79-b240-456a-9d22-de714985d0a3")
 	)
@@ -6518,8 +6570,16 @@
 		(uuid "9d7e6d96-8b72-4a50-acba-8c4b3c7f3e90")
 	)
 	(no_connect
+		(at 39.37 41.91)
+		(uuid "9edcf00a-4ad2-4d3d-a76f-47ab421a20ff")
+	)
+	(no_connect
 		(at 166.37 26.67)
 		(uuid "a0494a19-0db4-4eee-8ebe-b2016bd8e417")
+	)
+	(no_connect
+		(at 26.67 31.75)
+		(uuid "a166457a-4bfa-454f-9301-7a3637b0fba3")
 	)
 	(no_connect
 		(at 101.6 133.35)
@@ -6534,16 +6594,48 @@
 		(uuid "ab955d34-5e21-4835-bf31-f5ced58fe90a")
 	)
 	(no_connect
+		(at 26.67 26.67)
+		(uuid "abab02d0-8eec-400b-8269-93693e6086e2")
+	)
+	(no_connect
 		(at 186.69 26.67)
 		(uuid "ade7787b-8280-40b2-93b7-4de92ae1421d")
+	)
+	(no_connect
+		(at 73.66 29.21)
+		(uuid "afc88f41-27d7-4966-8418-85d7a1d33691")
 	)
 	(no_connect
 		(at 214.63 26.67)
 		(uuid "b197b322-c4cc-4853-879e-62957604af8a")
 	)
 	(no_connect
+		(at 39.37 39.37)
+		(uuid "b7959d1a-f0be-48df-b6ea-0743c3db8731")
+	)
+	(no_connect
+		(at 153.67 72.39)
+		(uuid "baf075b7-6016-4e04-ad07-64a9f8061329")
+	)
+	(no_connect
 		(at 73.66 163.83)
 		(uuid "bd75f18d-94e4-4b23-a8f7-eada2c5e702a")
+	)
+	(no_connect
+		(at 73.66 26.67)
+		(uuid "c3743dc8-f5c7-4b83-a84d-aebb35a26cff")
+	)
+	(no_connect
+		(at 73.66 31.75)
+		(uuid "c4fe4597-80c3-4060-a6c2-d768a5c08edb")
+	)
+	(no_connect
+		(at 39.37 29.21)
+		(uuid "c672fe36-0406-4fba-aa0d-dbbb1cf4460c")
+	)
+	(no_connect
+		(at 73.66 34.29)
+		(uuid "d2d873bb-7648-4198-a4cd-a09ede30625a")
 	)
 	(no_connect
 		(at 222.25 54.61)
@@ -6560,6 +6652,14 @@
 	(no_connect
 		(at 222.25 46.99)
 		(uuid "e1bff946-25a9-40a9-b97c-c1eba0f3a0f6")
+	)
+	(no_connect
+		(at 60.96 31.75)
+		(uuid "e4edae4d-0d3e-4aec-bdc9-df5880466e04")
+	)
+	(no_connect
+		(at 60.96 46.99)
+		(uuid "e89411fe-ca05-4a80-bc3d-9c7c63af2f80")
 	)
 	(no_connect
 		(at 179.07 95.25)
@@ -6584,6 +6684,10 @@
 	(no_connect
 		(at 222.25 67.31)
 		(uuid "f927c324-acdd-4bc3-8af9-978825021a8d")
+	)
+	(no_connect
+		(at 26.67 29.21)
+		(uuid "ff29914c-9c59-408d-a238-aa42418a4ee5")
 	)
 	(wire
 		(pts
@@ -6777,7 +6881,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 171.45) (xy 60.96 171.45)
+			(xy 50.8 171.45) (xy 73.66 171.45)
 		)
 		(stroke
 			(width 0)
@@ -6854,16 +6958,6 @@
 			(type default)
 		)
 		(uuid "2d3cf45a-cf91-4c24-8cdd-6307c539eb28")
-	)
-	(wire
-		(pts
-			(xy 54.61 166.37) (xy 73.66 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30cef5a6-3adb-4d4c-b317-661deb7d4c07")
 	)
 	(wire
 		(pts
@@ -6947,7 +7041,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 166.37) (xy 49.53 166.37)
+			(xy 45.72 166.37) (xy 73.66 166.37)
 		)
 		(stroke
 			(width 0)
@@ -7127,7 +7221,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 168.91) (xy 55.88 168.91)
+			(xy 48.26 168.91) (xy 73.66 168.91)
 		)
 		(stroke
 			(width 0)
@@ -7317,16 +7411,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 76.2) (xy 134.62 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87b6e3e9-309f-49c0-9f94-1cc391ed7673")
-	)
-	(wire
-		(pts
 			(xy 128.27 44.45) (xy 128.27 49.53)
 		)
 		(stroke
@@ -7354,16 +7438,6 @@
 			(type default)
 		)
 		(uuid "8ea70bbd-9c0a-4ae8-bdbd-ba330505f7ea")
-	)
-	(wire
-		(pts
-			(xy 124.46 73.66) (xy 132.08 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a3340dd-a323-4270-ad68-583abaa026f1")
 	)
 	(wire
 		(pts
@@ -7477,7 +7551,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 76.2) (xy 119.38 76.2)
+			(xy 110.49 76.2) (xy 134.62 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7627,16 +7701,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 171.45) (xy 73.66 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8e3cd53-f409-43ed-acc0-89f93dea6abd")
-	)
-	(wire
-		(pts
 			(xy 240.03 93.98) (xy 243.84 93.98)
 		)
 		(stroke
@@ -7647,7 +7711,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 73.66) (xy 119.38 73.66)
+			(xy 116.84 73.66) (xy 132.08 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7764,16 +7828,6 @@
 			(type default)
 		)
 		(uuid "e1a3c98a-e8d9-4a0d-a4eb-cc4ce989b104")
-	)
-	(wire
-		(pts
-			(xy 60.96 168.91) (xy 73.66 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e36563b5-7cc5-4b3e-8b4c-8144da661f30")
 	)
 	(wire
 		(pts
@@ -8489,7 +8543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical"
+		(property "Footprint" "gaia-lte-footprints:U.FL_Hirose_U.FL-R-SMT-1_Vertical"
 			(at 264.16 26.67 0)
 			(effects
 				(font
@@ -9632,7 +9686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gaia-4gmodul-footprints:GCT_SIM8051-6-0-14-00-A_REVD6"
+		(property "Footprint" "gaia-lte-footprints:GCT_SIM8051-6-0-14-00-A_REVD6"
 			(at 83.82 168.91 0)
 			(effects
 				(font
@@ -10092,15 +10146,15 @@
 	(symbol
 		(lib_id "Device:D_TVS_Small")
 		(at 116.84 85.09 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "385f6fdd-351c-4ea7-93e0-098561d4bb84")
 		(property "Reference" "D6"
-			(at 119.38 83.8199 90)
+			(at 119.38 86.3601 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10109,7 +10163,7 @@
 			)
 		)
 		(property "Value" "ESD9L5.0ST5G"
-			(at 119.38 86.3599 90)
+			(at 119.38 83.8201 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10222,6 +10276,73 @@
 			(project "gaia-4gmodul"
 				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 39.37 36.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "38ce82e7-6daf-4e34-b32c-3469f4fe736a")
+		(property "Reference" "#PWR058"
+			(at 45.72 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 36.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 39.37 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7f237450-e9fd-482c-bbb5-cdd49490207e")
+		)
+		(instances
+			(project "gaia-lte"
+				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -10356,73 +10477,6 @@
 			(project "gaia-4gmodul"
 				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
 					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 63.5 171.45 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "41c4e736-2595-4c18-b67c-0424de0f283c")
-		(property "Reference" "R12"
-			(at 63.5 163.068 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "22R"
-			(at 63.5 164.592 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 63.5 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 63.5 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dc032930-a8c9-4ae8-a0cc-5ca3333e921e")
-		)
-		(pin "2"
-			(uuid "cc99cdd9-191b-47d4-bc51-4272fd87606a")
-		)
-		(instances
-			(project "gaia-4gmodul"
-				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
-					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -10581,8 +10635,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.7uF"
-			(at 38.1 136.398 0)
+		(property "Value" "1uF"
+			(at 36.068 136.398 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10627,73 +10681,6 @@
 			(project "gaia-4gmodul"
 				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 52.07 166.37 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "49716ecc-92a2-41eb-9022-d903e0708db0")
-		(property "Reference" "R10"
-			(at 52.07 162.814 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "22R"
-			(at 52.07 164.592 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 52.07 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 52.07 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4998d707-f9f8-49c7-8f27-5321265f3cce")
-		)
-		(pin "2"
-			(uuid "0bdaeaa2-5086-4736-9fc6-9dc622fa564d")
-		)
-		(instances
-			(project "gaia-4gmodul"
-				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
-					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -11060,7 +11047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 34.29 77.47 0)
 			(effects
 				(font
@@ -11435,74 +11422,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 121.92 73.66 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "547e6e19-102e-41b7-b9c9-82596fe44a1b")
-		(property "Reference" "R8"
-			(at 121.92 68.58 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 121.92 71.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 121.92 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 121.92 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c36f72c2-6468-49a1-8615-7c49f06a4564")
-		)
-		(pin "2"
-			(uuid "9d4742d2-698b-4651-805a-a9f1fd314419")
-		)
-		(instances
-			(project "gaia-4gmodul"
-				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 176.53 129.54 0)
 		(unit 1)
@@ -11596,7 +11515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 260.35 127 90)
 			(effects
 				(font
@@ -12070,7 +11989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "gaia-lte-footprints:SOT-23-5"
 			(at 53.34 180.34 0)
 			(effects
 				(font
@@ -12596,73 +12515,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 58.42 168.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7eb69f86-85a6-4bcd-bc69-c40c0618aba2")
-		(property "Reference" "R11"
-			(at 58.42 163.068 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "22R"
-			(at 58.42 164.592 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 58.42 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 58.42 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0229e5fb-7119-4e41-8d82-93efed000767")
-		)
-		(pin "2"
-			(uuid "9b518401-542d-4c93-b1ea-5133d4b3723c")
-		)
-		(instances
-			(project "gaia-4gmodul"
-				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
-					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 240.03 100.33 180)
 		(unit 1)
@@ -12961,7 +12813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "gaia-lte-footprints:SOT-23-5"
 			(at 49.53 67.945 0)
 			(effects
 				(font
@@ -13243,7 +13095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gaia-4gmodul-footprints:DTC143ZEBTL"
+		(property "Footprint" "gaia-lte-footprints:DTC143ZEBTL"
 			(at 123.19 34.29 0)
 			(effects
 				(font
@@ -13504,7 +13356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical"
+		(property "Footprint" "gaia-lte-footprints:U.FL_Hirose_U.FL-R-SMT-1_Vertical"
 			(at 262.89 93.98 0)
 			(effects
 				(font
@@ -13771,7 +13623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gaia-4gmodul-footprints:SIM7600"
+		(property "Footprint" "gaia-lte-footprints:SIM7600"
 			(at 156.21 29.21 0)
 			(effects
 				(font
@@ -14227,7 +14079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 218.44 127 0)
 			(effects
 				(font
@@ -14999,7 +14851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gaia-4gmodul-footprints:DTC143ZEBTL"
+		(property "Footprint" "gaia-lte-footprints:DTC143ZEBTL"
 			(at 242.57 72.39 0)
 			(effects
 				(font
@@ -15521,7 +15373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gaia_obc-footprints:PinHeader_2x10_P2.00mm_Vertical_SMD"
+		(property "Footprint" "gaia-lte-footprints:Gaia_connector_2_4layer"
 			(at 66.04 36.83 0)
 			(effects
 				(font
@@ -15713,7 +15565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gaia_obc-footprints:PinHeader_2x10_P2.00mm_Vertical_SMD"
+		(property "Footprint" "gaia-lte-footprints:Gaia_connector_2_4layer"
 			(at 31.75 36.83 0)
 			(effects
 				(font
@@ -15834,7 +15686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 63.5 77.47 0)
 			(effects
 				(font
@@ -16708,7 +16560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gaia-4gmodul-footprints:DTC143ZEBTL"
+		(property "Footprint" "gaia-lte-footprints:DTC143ZEBTL"
 			(at 242.57 52.07 0)
 			(effects
 				(font
@@ -17034,7 +16886,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gaia-4gmodul-footprints:DTC143ZEBTL"
+		(property "Footprint" "gaia-lte-footprints:DTC143ZEBTL"
 			(at 123.19 52.07 0)
 			(effects
 				(font
@@ -17399,6 +17251,73 @@
 			(project "gaia-4gmodul"
 				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
 					(reference "#PWR081")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 39.37 34.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1b19fcf-0ffb-4be5-a3d4-5a813e11ce04")
+		(property "Reference" "#PWR075"
+			(at 45.72 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 34.2899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 39.37 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0cd6e49e-9046-4288-a862-490ee50a020a")
+		)
+		(instances
+			(project "gaia-lte"
+				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -18074,74 +17993,6 @@
 			(project "gaia-4gmodul"
 				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
 					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 121.92 76.2 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f371b119-19e1-4f38-b55b-d68353aa37a5")
-		(property "Reference" "R9"
-			(at 121.92 81.28 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 121.92 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 121.92 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 121.92 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1f6a1274-5423-44ab-b910-9dd94519f854")
-		)
-		(pin "2"
-			(uuid "a62cb167-6da8-4099-a3bc-ea52b429e9d2")
-		)
-		(instances
-			(project "gaia-4gmodul"
-				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
-					(reference "R9")
 					(unit 1)
 				)
 			)
