@@ -848,18 +848,6 @@
     [
       "7b77d13a-9a8b-42d2-a530-7929f32d7253",
       "Root"
-    ],
-    [
-      "64903bdd-d8d7-4cff-b9d5-1cc2a088787b",
-      "simCard"
-    ],
-    [
-      "a03e4bfc-60e8-4db0-9e70-bf306df5cac1",
-      "sdCard"
-    ],
-    [
-      "64e86d72-ba40-4c72-8af6-e159e57c58fe",
-      "SDcardPSU"
     ]
   ],
   "text_variables": {}
