@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "gaia-4gmodul-footprints")(type "KiCad")(uri "${KIPRJMOD}/gaia-4gmodul-footprints.pretty")(options "")(descr ""))
-)

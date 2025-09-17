@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gaia-lte-symbols")(type "KiCad")(uri "${KIPRJMOD}/gaia-lte-symbols.kicad_sym")(options "")(descr ""))
+)
