@@ -544,7 +544,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "gaia-4gmodul.kicad_pro",
+    "filename": "gaia-lte.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -620,7 +620,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
