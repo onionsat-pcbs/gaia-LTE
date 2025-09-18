@@ -4510,7 +4510,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "aa1cb990-63fb-4f7f-83bb-5d79cc255457")
+			(uuid "874b6181-2883-49b6-9bef-13cfe1159db3")
 		)
 		(zone
 			(net 0)
@@ -6300,7 +6300,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "fad1ba5f-3e28-40b2-95dd-f18dec0767f8")
+			(uuid "868fc72e-ea4d-44c5-85ea-67a1a652eac3")
 		)
 		(zone
 			(net 0)
@@ -17555,7 +17555,7 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "e7ed472e-ef83-4973-9cbf-741c1f1cb2d7")
+			(uuid "f292cdbc-1158-4350-8ba0-5fd88f015ac0")
 		)
 		(pad "11" smd rect
 			(at 5.625 -5.225 180)
@@ -17564,7 +17564,7 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "e7ed472e-ef83-4973-9cbf-741c1f1cb2d7")
+			(uuid "3852ea05-9dd8-4124-bc0d-be2ff60b7c30")
 		)
 		(pad "11" smd rect
 			(at 5.975 3.025 180)
@@ -17573,7 +17573,7 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "e7ed472e-ef83-4973-9cbf-741c1f1cb2d7")
+			(uuid "6bfc58a2-68f0-40e9-9922-92a3522ad632")
 		)
 		(zone
 			(net 0)
@@ -18685,6 +18685,19 @@
 	)
 	(gr_poly
 		(pts
+			(xy 171.121129 72.774238) (xy 170.707572 73.205198) (xy 169.723918 72.180153) (xy 170.137475 71.749193)
+		)
+		(stroke
+			(width 0.113841)
+			(type solid)
+			(color 0 0 2 1)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "3e94cfbb-03cc-4c19-bbf7-21c896e3022c")
+	)
+	(gr_poly
+		(pts
 			(xy 186.969532 71.975232) (xy 186.962124 73.296386) (xy 186.71271 73.296386) (xy 186.71271 71.572713)
 			(xy 186.986818 71.572713) (xy 188.142518 73.296386) (xy 187.883227 73.296386)
 		)
@@ -18779,6 +18792,20 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "8d64a895-b8cc-4f1b-b9a2-fd2f80ddc97d")
+	)
+	(gr_poly
+		(pts
+			(xy 170.129361 71.648685) (xy 170.938483 71.863808) (xy 170.4 72.4) (xy 169.809136 72.993155) (xy 169.614025 72.258719)
+			(xy 169.395765 71.450437)
+		)
+		(stroke
+			(width 0.089999)
+			(type solid)
+			(color 0 0 2 1)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "9347e44e-89c5-40c5-93af-e97c40ad569e")
 	)
 	(gr_poly
 		(pts
@@ -26907,6 +26934,10 @@
 			"d174e7d2-b45c-4e37-8a24-79be5f97e3e1" "dea9e238-75bd-4879-90cb-d1d29da0fa81"
 			"f7d52c5f-d9f0-44eb-a4fc-7e11c8244984"
 		)
+	)
+	(group ""
+		(uuid "f01da1b5-ff4c-457d-bc6f-6522c196b2e0")
+		(members "3e94cfbb-03cc-4c19-bbf7-21c896e3022c" "9347e44e-89c5-40c5-93af-e97c40ad569e")
 	)
 	(generated
 		(uuid "765d7a5e-5e38-4936-beaa-c76eafc5fcc6")
