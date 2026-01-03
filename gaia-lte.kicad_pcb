@@ -3485,6 +3485,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/SIM7600E.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -9283,6 +9294,17 @@
 			(uuid "c61bca82-9148-4eba-9682-44bbcb21ef6a")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/DTC143ZEBTL.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "gaia-lte-footprints:Gaia_connector_2_4layer"
 		(layer "F.Cu")
@@ -12971,6 +12993,17 @@
 			(uuid "0980d99e-6e95-488a-af95-05651636559e")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/DTC143ZEBTL.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_1812_4532Metric"
 		(layer "F.Cu")
@@ -13818,6 +13851,17 @@
 			(uuid "e93e4cca-949f-43a1-b1d4-c6821c491406")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/DTC143ZEBTL.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "gaia-lte-footprints:SOT-23-5"
 		(layer "F.Cu")
@@ -14485,6 +14529,17 @@
 			(uuid "57eb192c-08fb-4a15-9e90-1bf01e793004")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/DTC143ZEBTL.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_1.5x1.5mm"
 		(layer "B.Cu")
