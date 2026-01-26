@@ -6426,10 +6426,6 @@
 		(uuid "1552810c-fce1-4c78-a2a8-79ad6c5dc711")
 	)
 	(no_connect
-		(at 39.37 31.75)
-		(uuid "1f2609fb-065c-487d-8b8d-8fec4bd637b6")
-	)
-	(no_connect
 		(at 26.67 39.37)
 		(uuid "25bbd3ea-110d-4d14-8fad-9a0df6f7690d")
 	)
@@ -6552,10 +6548,6 @@
 	(no_connect
 		(at 60.96 49.53)
 		(uuid "852b570d-5fef-40cd-9920-71325dc249eb")
-	)
-	(no_connect
-		(at 26.67 36.83)
-		(uuid "981af400-4f57-4a05-b149-adbff3ac7926")
 	)
 	(no_connect
 		(at 153.67 74.93)
@@ -11091,6 +11083,73 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 39.37 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ff7448a-2143-4adf-bb29-1b4407522ab0")
+		(property "Reference" "#PWR079"
+			(at 45.72 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 31.7499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 39.37 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6700a6b2-19fa-4fe0-be6f-ca0b8a6b64d3")
+		)
+		(instances
+			(project "gaia-lte"
+				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
+					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 222.25 85.09 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14116,6 +14175,73 @@
 			(project "gaia-4gmodul"
 				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 36.83 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9dd832b5-001e-4fe4-b750-319e2785c768")
+		(property "Reference" "#PWR087"
+			(at 20.32 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 22.86 36.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5c6cf29c-40ee-4d19-b443-10008ab40f98")
+		)
+		(instances
+			(project "gaia-lte"
+				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
