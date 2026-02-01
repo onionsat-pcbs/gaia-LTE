@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,9.0.4*%
-%TF.CreationDate,2025-09-18T11:58:12+02:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
+%TF.CreationDate,2026-02-01T23:45:28+01:00*%
 %TF.ProjectId,gaia-lte,67616961-2d6c-4746-952e-6b696361645f,1.0*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L4,Inr*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.4) date 2025-09-18 11:58:12*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2026-02-01 23:45:28*
 %MOMM*%
 %LPD*%
 G01*
@@ -89,7 +89,7 @@ X192796938Y-79500000D03*
 D14*
 X175558606Y-114880534D03*
 D11*
-X171300000Y-102500000D03*
+X171496938Y-102500000D03*
 D12*
 X203675000Y-72125000D03*
 D11*
@@ -161,9 +161,9 @@ D11*
 X167561000Y-75576000D03*
 X200023000Y-88000000D03*
 X189662000Y-88000000D03*
-%TO.N,/USB_DP*%
+%TO.N,Net-(U3-USB_DP)*%
 X174096938Y-94000000D03*
-%TO.N,/USB_DN*%
+%TO.N,Net-(U3-USB_DN)*%
 X174096938Y-93000000D03*
 D10*
 %TO.N,/USIM_DATA*%

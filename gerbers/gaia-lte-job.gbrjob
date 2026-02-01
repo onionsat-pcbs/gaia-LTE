@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.4"
+      "Version": "9.0.6"
     },
-    "CreationDate": "2025-09-18T11:58:12+02:00"
+    "CreationDate": "2026-02-01T23:45:28+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -47,22 +47,22 @@
     },
     {
       "Path": "gaia-lte-GND1.gbr",
-      "FileFunction": "Copper,L5,Inr",
+      "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "gaia-lte-Vbat.gbr",
-      "FileFunction": "Copper,L7,Inr",
+      "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "gaia-lte-In3_Cu.gbr",
-      "FileFunction": "Copper,L9,Inr",
+      "FileFunction": "Copper,L4,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "gaia-lte-GND2.gbr",
-      "FileFunction": "Copper,L11,Inr",
+      "FileFunction": "Copper,L5,Inr",
       "FilePolarity": "Positive"
     },
     {
@@ -117,6 +117,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -187,6 +188,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },

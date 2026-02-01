@@ -7023,6 +7023,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 73.66) (xy 132.08 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "437aa59a-aec4-4daa-84de-0cfb9315a473")
+	)
+	(wire
+		(pts
 			(xy 207.01 26.67) (xy 207.01 24.13)
 		)
 		(stroke
@@ -7543,7 +7553,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 76.2) (xy 134.62 76.2)
+			(xy 110.49 76.2) (xy 121.92 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7703,7 +7713,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 73.66) (xy 132.08 73.66)
+			(xy 116.84 73.66) (xy 121.92 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7980,6 +7990,16 @@
 			(type default)
 		)
 		(uuid "fa3299a0-6ae5-45fb-8a10-41d8820336d5")
+	)
+	(wire
+		(pts
+			(xy 127 76.2) (xy 134.62 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb3429f7-81e8-4825-9628-1e6e45e6a0cc")
 	)
 	(wire
 		(pts
@@ -9312,6 +9332,74 @@
 			(project "gaia-4gmodul"
 				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 124.46 73.66 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d050f9a-510a-4520-87df-6ee6606bfc09")
+		(property "Reference" "R5"
+			(at 124.46 68.58 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 124.46 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 124.46 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 124.46 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a4454adc-60e9-421f-a881-5c2fd8ba33e3")
+		)
+		(pin "1"
+			(uuid "7cb261d4-339d-40af-b0c4-4ac5fe22f78d")
+		)
+		(instances
+			(project "gaia-lte"
+				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -16118,6 +16206,74 @@
 			(project "gaia-4gmodul"
 				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 124.46 76.2 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cf932b7c-298a-45f7-be55-4a4117d3469d")
+		(property "Reference" "R6"
+			(at 124.46 81.28 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 124.46 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 124.46 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 124.46 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "15369650-f53c-4646-b219-f87301d69a17")
+		)
+		(pin "1"
+			(uuid "8489f1e5-7ccb-4fda-83b5-08716b4f555b")
+		)
+		(instances
+			(project "gaia-lte"
+				(path "/7b77d13a-9a8b-42d2-a530-7929f32d7253"
+					(reference "R6")
 					(unit 1)
 				)
 			)
